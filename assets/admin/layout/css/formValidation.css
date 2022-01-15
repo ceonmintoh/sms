@@ -1,0 +1,15 @@
+/* 
+    Document   : formValidation
+    Created on : Apr 27, 2015, 3:58:48 PM
+    Author     : Md. Omar Faruk Serniabat
+    Description:
+        Purpose of the stylesheet follows.
+*/
+#validation_message_username{
+    display:none;
+    color: #FF0000;
+}
+.error{
+    background: url("../img/icon-fail.png") no-repeat scroll right center #ffebef;
+}
+
